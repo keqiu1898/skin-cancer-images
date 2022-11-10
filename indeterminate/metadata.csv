@@ -1,0 +1,89 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,dermoscopic_type,diagnosis,diagnosis_confirm_type,family_hx_mm,image_type,melanocytic,nevus_type,personal_hx_mm,pixels_x,pixels_y,sex
+ISIC_4106190,Memorial Sloan Kettering Cancer Center,CC-BY,35,head/neck,indeterminate,8.4,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_0557560,Memorial Sloan Kettering Cancer Center,CC-BY,65,upper extremity,indeterminate,3.2,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_8514630,Memorial Sloan Kettering Cancer Center,CC-BY,50,posterior torso,indeterminate,9.7,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_2880255,Memorial Sloan Kettering Cancer Center,CC-BY,50,anterior torso,indeterminate,12.0,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_4985074,Memorial Sloan Kettering Cancer Center,CC-BY,65,head/neck,indeterminate,7.0,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_8923373,Memorial Sloan Kettering Cancer Center,CC-BY,45,anterior torso,indeterminate,4.9,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_1548946,Memorial Sloan Kettering Cancer Center,CC-BY,30,anterior torso,indeterminate,10.0,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_0673811,Memorial Sloan Kettering Cancer Center,CC-BY,65,anterior torso,indeterminate,5.9,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_1328709,Memorial Sloan Kettering Cancer Center,CC-BY,40,upper extremity,indeterminate,4.4,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_9389785,Memorial Sloan Kettering Cancer Center,CC-BY,55,anterior torso,indeterminate,6.3,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_6172309,Memorial Sloan Kettering Cancer Center,CC-BY,55,upper extremity,indeterminate,6.4,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_9226804,Memorial Sloan Kettering Cancer Center,CC-BY,45,anterior torso,indeterminate,5.7,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_1305755,Memorial Sloan Kettering Cancer Center,CC-BY,45,anterior torso,indeterminate,6.0,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_8399373,Memorial Sloan Kettering Cancer Center,CC-BY,50,head/neck,indeterminate,6.1,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_3339253,Memorial Sloan Kettering Cancer Center,CC-BY,70,upper extremity,indeterminate,9.0,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_9358012,Memorial Sloan Kettering Cancer Center,CC-BY,50,anterior torso,indeterminate,3.8,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_1615485,Memorial Sloan Kettering Cancer Center,CC-BY,60,lower extremity,indeterminate,2.9,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_0702665,Memorial Sloan Kettering Cancer Center,CC-BY,70,posterior torso,indeterminate,8.2,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_4987653,Memorial Sloan Kettering Cancer Center,CC-BY,55,upper extremity,indeterminate,7.4,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_9568327,Memorial Sloan Kettering Cancer Center,CC-BY,50,anterior torso,indeterminate,10.6,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_6327722,Memorial Sloan Kettering Cancer Center,CC-BY,50,upper extremity,indeterminate,5.2,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_6012141,Memorial Sloan Kettering Cancer Center,CC-BY,70,upper extremity,indeterminate,16.9,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_2690101,Memorial Sloan Kettering Cancer Center,CC-BY,85,upper extremity,indeterminate,7.5,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_7827407,Memorial Sloan Kettering Cancer Center,CC-BY,65,palms/soles,indeterminate,2.6,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_7673152,Memorial Sloan Kettering Cancer Center,CC-BY,70,upper extremity,indeterminate,3.4,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_4774478,Memorial Sloan Kettering Cancer Center,CC-BY,30,lower extremity,indeterminate,8.9,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_2365013,Memorial Sloan Kettering Cancer Center,CC-BY,65,upper extremity,indeterminate,3.7,,actinic keratosis,histopathology,,dermoscopic,False,,,3264,2448,female
+ISIC_1442945,Memorial Sloan Kettering Cancer Center,CC-BY,60,upper extremity,indeterminate,6.4,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_3429759,Memorial Sloan Kettering Cancer Center,CC-BY,60,anterior torso,indeterminate,8.9,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_1469532,Memorial Sloan Kettering Cancer Center,CC-BY,50,anterior torso,indeterminate,5.8,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_7664219,Memorial Sloan Kettering Cancer Center,CC-BY,60,lower extremity,indeterminate,4.7,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_3107586,Memorial Sloan Kettering Cancer Center,CC-BY,65,lower extremity,indeterminate,3.7,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_5256455,Memorial Sloan Kettering Cancer Center,CC-BY,75,lower extremity,indeterminate,4.4,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_3182805,Memorial Sloan Kettering Cancer Center,CC-BY,85,posterior torso,indeterminate,12.1,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_4997067,Memorial Sloan Kettering Cancer Center,CC-BY,65,head/neck,indeterminate,3.5,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_3758803,Memorial Sloan Kettering Cancer Center,CC-BY,65,anterior torso,indeterminate,7.8,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_8504492,Memorial Sloan Kettering Cancer Center,CC-BY,75,anterior torso,indeterminate,9.6,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_2133528,Memorial Sloan Kettering Cancer Center,CC-BY,80,anterior torso,indeterminate,5.0,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_0205337,Memorial Sloan Kettering Cancer Center,CC-BY,25,anterior torso,indeterminate,7.7,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_8205812,Memorial Sloan Kettering Cancer Center,CC-BY,25,anterior torso,indeterminate,4.1,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_8513151,Memorial Sloan Kettering Cancer Center,CC-BY,65,posterior torso,indeterminate,7.4,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_2476454,Memorial Sloan Kettering Cancer Center,CC-BY,65,upper extremity,indeterminate,8.2,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_1919342,Memorial Sloan Kettering Cancer Center,CC-BY,65,lower extremity,indeterminate,7.9,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_7427536,Memorial Sloan Kettering Cancer Center,CC-BY,80,lower extremity,indeterminate,20.1,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_2631616,Memorial Sloan Kettering Cancer Center,CC-BY,65,posterior torso,indeterminate,2.5,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_6790329,Memorial Sloan Kettering Cancer Center,CC-BY,55,upper extremity,indeterminate,2.1,,,histopathology,,dermoscopic,False,,,3264,2448,male
+ISIC_7153852,Memorial Sloan Kettering Cancer Center,CC-BY,55,upper extremity,indeterminate,6.7,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_7180218,Memorial Sloan Kettering Cancer Center,CC-BY,40,upper extremity,indeterminate,3.9,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_6551901,Memorial Sloan Kettering Cancer Center,CC-BY,65,lower extremity,indeterminate,8.1,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_5477137,Memorial Sloan Kettering Cancer Center,CC-BY,60,head/neck,indeterminate,8.9,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_9750445,Memorial Sloan Kettering Cancer Center,CC-BY,70,lower extremity,indeterminate,12.2,,actinic keratosis,histopathology,,dermoscopic,False,,,3264,2448,male
+ISIC_7574976,Memorial Sloan Kettering Cancer Center,CC-BY,55,anterior torso,indeterminate,6.4,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_4936288,Memorial Sloan Kettering Cancer Center,CC-BY,60,anterior torso,indeterminate,7.7,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_9202586,Memorial Sloan Kettering Cancer Center,CC-BY,80,lower extremity,indeterminate,17.0,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,6000,4000,male
+ISIC_7980127,Memorial Sloan Kettering Cancer Center,CC-BY,40,upper extremity,indeterminate,1.6,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_8591741,Memorial Sloan Kettering Cancer Center,CC-BY,60,anterior torso,indeterminate,4.7,,nevus,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_0777975,Memorial Sloan Kettering Cancer Center,CC-BY,55,upper extremity,indeterminate,6.1,,nevus,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_4891433,Memorial Sloan Kettering Cancer Center,CC-BY,60,lower extremity,indeterminate,3.8,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_8839489,Memorial Sloan Kettering Cancer Center,CC-BY,35,upper extremity,indeterminate,1.5,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_1855530,Memorial Sloan Kettering Cancer Center,CC-BY,70,head/neck,indeterminate,5.3,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_9631487,Memorial Sloan Kettering Cancer Center,CC-BY,40,lower extremity,indeterminate,2.8,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_7476613,Memorial Sloan Kettering Cancer Center,CC-BY,25,posterior torso,indeterminate,11.2,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_7012810,Memorial Sloan Kettering Cancer Center,CC-BY,65,lower extremity,indeterminate,3.2,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_7837335,Memorial Sloan Kettering Cancer Center,CC-BY,40,upper extremity,indeterminate,4.8,,nevus,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_4407580,Memorial Sloan Kettering Cancer Center,CC-BY,55,upper extremity,indeterminate,4.2,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_6353793,Memorial Sloan Kettering Cancer Center,CC-BY,60,posterior torso,indeterminate,11.1,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_7938135,Memorial Sloan Kettering Cancer Center,CC-BY,75,upper extremity,indeterminate,10.8,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_2975850,Memorial Sloan Kettering Cancer Center,CC-BY,50,upper extremity,indeterminate,13.6,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_9592626,Memorial Sloan Kettering Cancer Center,CC-BY,30,anterior torso,indeterminate,5.9,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_3900977,Memorial Sloan Kettering Cancer Center,CC-BY,45,lower extremity,indeterminate,7.7,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_6775828,Memorial Sloan Kettering Cancer Center,CC-BY,50,head/neck,indeterminate,7.7,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,female
+ISIC_0890978,Memorial Sloan Kettering Cancer Center,CC-BY,70,head/neck,indeterminate,8.2,,AIMP,histopathology,,dermoscopic,True,,,3264,2448,male
+ISIC_2430686,Memorial Sloan Kettering Cancer Center,CC-BY,65,upper extremity,indeterminate,4.6,,,histopathology,,dermoscopic,False,,,3264,2448,male
+ISIC_0016101,Anonymous,CC-0,50,anterior torso,indeterminate,,,AIMP,histopathology,,dermoscopic,True,,,4288,2848,male
+ISIC_0015031,Anonymous,CC-0,20,head/neck,indeterminate,,contact non-polarized,nevus,histopathology,,dermoscopic,True,,,6602,4361,female
+ISIC_0014253,Anonymous,CC-0,60,anterior torso,indeterminate,,contact non-polarized,nevus,histopathology,,dermoscopic,True,nevus NOS,,4288,2848,female
+ISIC_0013896,Anonymous,CC-0,40,posterior torso,indeterminate,,contact non-polarized,nevus,histopathology,,dermoscopic,True,nevus NOS,,4288,2848,female
+ISIC_0013809,Anonymous,CC-0,65,posterior torso,indeterminate,,contact non-polarized,nevus,histopathology,,dermoscopic,True,nevus NOS,,4288,2848,male
+ISIC_0012965,Anonymous,CC-0,50,upper extremity,indeterminate,,contact non-polarized,nevus,histopathology,,dermoscopic,True,nevus NOS,,3008,2000,male
+ISIC_0011355,Anonymous,CC-0,85,head/neck,indeterminate,19.0,,atypical melanocytic proliferation,histopathology,False,dermoscopic,True,,False,1024,768,female
+ISIC_0011332,Anonymous,CC-0,50,head/neck,indeterminate,8.0,,atypical melanocytic proliferation,histopathology,False,dermoscopic,True,,False,1024,768,male
+ISIC_0011307,Anonymous,CC-0,35,head/neck,indeterminate,9.0,,atypical melanocytic proliferation,histopathology,True,dermoscopic,True,,False,1024,768,male
+ISIC_0011054,Anonymous,CC-0,40,anterior torso,indeterminate,3.0,,atypical melanocytic proliferation,histopathology,True,dermoscopic,True,,False,1024,768,male
+ISIC_0011011,Anonymous,CC-0,40,anterior torso,indeterminate,4.0,,atypical melanocytic proliferation,histopathology,False,dermoscopic,True,,False,1024,768,female
+ISIC_0010325,Anonymous,CC-0,85,lower extremity,indeterminate,7.0,,atypical melanocytic proliferation,histopathology,False,dermoscopic,True,,False,1024,768,male
+ISIC_0010083,Anonymous,CC-0,70,lower extremity,indeterminate,10.0,,atypical melanocytic proliferation,histopathology,,dermoscopic,True,,False,1024,768,female
+ISIC_0010027,Anonymous,CC-0,40,head/neck,indeterminate,5.0,,atypical melanocytic proliferation,histopathology,False,dermoscopic,True,,True,1024,768,female
+ISIC_0009959,Anonymous,CC-0,50,lower extremity,indeterminate,2.0,,atypical melanocytic proliferation,histopathology,True,dermoscopic,True,,True,1024,768,female
